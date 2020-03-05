@@ -10,4 +10,3 @@ You can optionally insert a brief bio here. You went to this school, you studied
 * [@TwitterHandle](#)
 * [Your Departmental Webpage](#)
 * [Another site you want to link to](#)
-			
